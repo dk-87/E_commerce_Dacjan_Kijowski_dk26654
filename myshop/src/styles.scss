@@ -1,9 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
 
+body {
+  background-image: url("86599157.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+
+
 button{
-  background-color :red;
+  background-color :grey;
   transition-duration: 0.3s;
   &:hover{
-    background-color: yellow;
+    background-color: white;
   }
 }
+
